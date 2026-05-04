@@ -1,0 +1,45 @@
+{
+  "name": "stella",
+  "version": "0.1.0",
+  "description": "Compact astrology tools and interpretation skills.",
+  "author": {
+    "name": "Creatorship",
+    "email": "stella@creatorship.pro",
+    "url": "https://www.creatorship.pro"
+  },
+  "homepage": "https://www.creatorship.pro",
+  "repository": "https://github.com/Mezee/stella",
+  "license": "MIT",
+  "keywords": [
+    "astrology",
+    "kerykeion",
+    "natal-chart",
+    "synastry",
+    "transits",
+    "stella"
+  ],
+  "skills": "./skills/",
+  "hooks": "./hooks.json",
+  "interface": {
+    "displayName": "Stella",
+    "shortDescription": "Astrology calculations and interpretation workflows.",
+    "longDescription": "Stella provides focused astrology skills plus a compact Kerykeion script.",
+    "developerName": "Creatorship",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://www.creatorship.pro",
+    "privacyPolicyURL": "https://www.creatorship.pro/legal/stella/privacy",
+    "termsOfServiceURL": "https://www.creatorship.pro/legal/stella/terms",
+    "defaultPrompt": [
+      "Calculate a natal chart.",
+      "Compare two charts.",
+      "Generate a transit report."
+    ],
+    "brandColor": "#0F766E",
+    "composerIcon": "./assets/stella-logo-2026.png",
+    "logo": "./assets/stella-logo-2026.png"
+  }
+}
