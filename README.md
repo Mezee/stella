@@ -70,6 +70,9 @@ Stella is designed to keep:
 
 - Privacy policy: `legal/privacy-policy.md`
 - Terms of service: `legal/terms-of-service.md`
+- Web pages prepared for hosting:
+  - `docs/legal/stella/privacy/index.html`
+  - `docs/legal/stella/terms/index.html`
 
 ## Support
 
